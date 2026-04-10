@@ -39,4 +39,3 @@ Used in:
 
 ---
 
-## 🏗️ Project Architecture
